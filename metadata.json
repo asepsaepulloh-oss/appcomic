@@ -1,0 +1,8 @@
+{
+  "name": "iComic",
+  "description": "iComic — Your World of Stories. Modern manhwa reader with rich catalogue, explore, bookmarks, reading progress, and immersive high-speed vertical and single-page chapter reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
